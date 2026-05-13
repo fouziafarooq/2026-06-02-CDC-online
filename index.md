@@ -38,7 +38,7 @@ And run 'make workshop-check' *before* committing to make sure that changes are 
 8< ============= For a workshop delete from here =============
 For a workshop please delete the following block until the next dashed-line
 {% endcomment %}
-r
+
 
 {% comment %}
 8< ============================= until here ==================
